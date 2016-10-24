@@ -10,9 +10,9 @@ namespace HelloWorldGitHub
     {
         static void Main(string[] args)
         {
-            //A comment about this project.
+            // A comment about this project.
 
-            //This supercool new feature!
+            // This supercool new feature!
         }
     }
 }
